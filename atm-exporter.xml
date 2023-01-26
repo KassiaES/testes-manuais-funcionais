@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>SWAG</projectKey>
+    <exportDate>2023-01-26 20:07:38 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="78825473" key="SWAG-T4">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Kassia ES</createdBy>
+            <createdOn>2023-01-26 18:51:27 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Caso de Teste Ícone CHAT - BDD]]></name>
+            <objective><![CDATA[melhorar a experi&ecirc;ncia do usu&aacute;rio com um bot&atilde;o para ajuda]]></objective>
+            <owner>70121:ca09a41c-372c-41b6-8ad1-424ac223d281</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="bdd">
+                <details><![CDATA[Given o usuário quer informações
+And e há um botão de CHAT localizado no canto inferior esquerdo da página de Login
+When quando ele clicar no botão de CHAT
+Then aparece um menu de Ajuda com opções: informações compras, entregas, pagamentos, cadastro e falar com atendente]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
